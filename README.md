@@ -3,4 +3,4 @@ Implementation from John Purcells's advanced C++ course that utilizes a GUI wind
 to zoom in on fractal coordinates to produce new fractal images such as the one below.
 
 
-![fractal.png](https://postimg.cc/HV2x3G9z)
+[![fractal.png](https://i.postimg.cc/rw6rVMdB/fractal.png)](https://postimg.cc/HV2x3G9z)
